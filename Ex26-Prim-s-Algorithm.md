@@ -32,8 +32,8 @@ To write a C program to implement Prim's Algorithm for finding Total Cost of tre
 ```
 /*
 Program to implement Prim's Algorithm
-Developed by: 
-RegisterNumber:  
+Developed by: PRADEEP E
+RegisterNumber:  212223230149
 */
 ```
 ```
